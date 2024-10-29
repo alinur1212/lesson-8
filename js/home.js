@@ -52,7 +52,7 @@ function renderCard(){
                         <img src="${food.strMealThumb}    alt="">
                     </div>
                     <div class="card-text">
-                        <h4>${  }</h4>
+                        <h4></h4>
                         <p>
                             Indulge in the rich and savory symphony of flavors with our Savory Herb-Infused Chicken
                         </p>
